@@ -1,1 +1,2 @@
 # Attendance-Tracker
+Attendance Tracker – Excel & Power BI Tools: Excel, Power BI, DAX •Created 12 monthly attendance reports in Excel, then consolidated them into a yearly report of 50+ employees. •Built an interactive Power BI dashboard to monitor attendance, leaves, week-offs, performance scores, and salary trends. •Used DAX measures to calculate average salary, deductions, and performance percentage. •Added slicers for employee and month; visualized KPIs, charts, and gauges for easy tracking.
